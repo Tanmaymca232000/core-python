@@ -1,0 +1,13 @@
+list=[1,2,3,4,"t","y",9,4,4,4]
+print(list)
+list.append(7)
+print(list)
+m=list.count(4)
+print(m)
+list.insert(3,10)
+print(list)
+list.remove(4)
+print(list)
+list.reverse()
+print(list)
+list.sort()

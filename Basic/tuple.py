@@ -1,0 +1,9 @@
+t=(1,2,3,4,6,5,7,8,9)
+t1=t[2:5]
+print(t)
+print(t1)
+print(max(t))
+print(min(t))
+print(tuple(t))
+print(t.count(4))
+print(t.index(6))
